@@ -1,7 +1,9 @@
 ---
 title: "my_report"
+author: Person B
 format: revealjs
 editor: visual
+embed-resources: true
 ---
 
 ## Quarto
